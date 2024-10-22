@@ -1,0 +1,10 @@
+.gold
+{
+    color: gold;
+}
+
+span {
+    font-size: 12rem; /* Increase the size of the star */
+    cursor: pointer; /* Optional: Makes the pointer change to a hand icon */
+    margin: 0 5px;   /* Adds some spacing between stars */
+}

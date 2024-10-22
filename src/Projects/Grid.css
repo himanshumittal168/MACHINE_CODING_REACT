@@ -1,0 +1,18 @@
+.container {
+    display: grid;
+    width: 16rem;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    margin-top: 4px;
+  }
+  
+  .cell {
+    width: 5rem;
+    height: 5rem;
+    border: 10px solid black;
+  }
+  
+  .active {
+    background-color: cadetblue;
+  }
+  
